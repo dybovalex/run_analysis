@@ -1,7 +1,9 @@
 # run_analysis
 
-the data was download from the link (coursera). 
+the data was download from the link (coursera).
+
 The files were unziped and copied to the R workspace. 
+
 All files were read using read.table command. 
 The data were merged using data.frame command and then rbind command. 
 The names of variables were read from the file.  
